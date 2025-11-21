@@ -51,7 +51,7 @@ img{
     display: inline-block;
     width: 11px;
     height: 16px;
-    background-image: url(../images/精灵图.PNG);
+    background-image: url(精灵图.PNG);
     background-position: -160px -70px;
     vertical-align: middle;
     margin-right: 8px;
@@ -74,7 +74,7 @@ img{
     display: block;
     width: 207px;
     height: 70px;
-    background-image:url(../images/LOGO.PNG) ;
+    background-image:url(LOGO.PNG) ;
     background-size: contain;
     font-size: 0;
 }
@@ -128,7 +128,7 @@ img{
     top: 5px;
     width: 18px;
     height: 18px;
-    background-image: url(../images/精灵图.PNG);
+    background-image: url(精灵图.PNG);
     background-position:-79px -69px;
 }
 
@@ -173,7 +173,7 @@ img{
     top: 15px;
     width: 6px;
     height: 20px;
-    background-image: url(../images/精灵图.PNG);
+    background-image: url(精灵图.PNG);
     background-position:-41px -106px;
 }
 
@@ -248,7 +248,7 @@ img{
     margin-left: 13px;
     width: 7px;
     height: 13px;
-    background-image: url(../images/精灵图.PNG);
+    background-image: url(精灵图.PNG);
     background-position: 0 -110px;
     vertical-align: middle;
 }
@@ -386,7 +386,7 @@ img{
     margin-left: 10px;
     width: 20px;
     height: 20px;
-    background-image: url(../images/精灵图.PNG);
+    background-image: url(精灵图.PNG);
     background-position:-240px -106px;
 }
 
@@ -396,7 +396,7 @@ img{
     display: block;
     width: 20px;
     height: 20px;
-    background-image: url(../images/精灵图.PNG);
+    background-image: url(精灵图.PNG);
     background-position:-155px -106px;
 }
 
@@ -406,7 +406,7 @@ img{
     display: block;
     width: 20px;
     height: 20px;
-    background-image: url(../images/精灵图.PNG);
+    background-image: url(精灵图.PNG);
     background-position:-200px -106px;
 }
 
@@ -417,7 +417,7 @@ img{
     margin-top: 28px;
     width: 23px;
     height: 23px;
-    background-image: url(../images/精灵图.PNG);
+    background-image: url(精灵图.PNG);
     background-position:-119px -69px;
 }
 
@@ -472,7 +472,7 @@ img{
     content: '';
     width: 58px;
     height: 58px;
-    background-image: url(../images/精灵图.PNG);
+    background-image: url(精灵图.PNG);
 }
 
 .footer .top li span{
@@ -504,4 +504,5 @@ img{
 
 .footer .bottom p{
     margin-bottom: 20px;
+
 }
